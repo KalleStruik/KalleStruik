@@ -10,4 +10,5 @@
 
 > **What I'm Learning**  
 > <img src = 'https://github.com/KalleStruik/KalleStruik/blob/master/images/langs/assembly.png' width='30'/>
-> <img src = 'https://github.com/KalleStruik/KalleStruik/blob/master/images/langs/kotlin.svg' width='30'/>
+> <img src = 'https://github.com/kallestruik/kallestruik/blob/master/images/langs/kotlin.svg' width='30'/>
+> <img src = 'https://github.com/kallestruik/kallestruik/blob/master/images/langs/cpp.png' width='30'/>
